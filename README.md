@@ -1,7 +1,7 @@
 ## ~ヾ(＾∇＾)
 
 ### I am just another Computer Science Student , trying to understand Quantum Computing :space_invader:⚛️
-- 🌱 I’m currently learning **CV Quantum Computing**
+- 🌱 I’m currently improving my grasp of Quantum Mechanics.
 - :computer: :globe_with_meridians: I’m looking to collaborate on projects related to **Quantum Network/Internet**
 - 🤔 I’m looking for help with **Quantum Photonics/CV Quantum Computing**
 - 💬 Ask me anything , I will try to give you any information I have or I will just google your question :disappointed: 
