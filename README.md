@@ -1,6 +1,6 @@
 ## ~ヾ(＾∇＾)
 
-### I am just another Computer Science Student , trying to understand Quantum Computing :space_invader:⚛️
+### I am just a Computer Science Student , trying to understand Quantum Computing :space_invader:⚛️
 - 🌱 I’m currently improving my grasp on Quantum Mechanics.
 - :computer: :globe_with_meridians: I’m looking to collaborate on projects related to **Quantum Image Processing**
 - 🤔 I’m looking for help with **finding opportunities**
@@ -11,5 +11,5 @@
 
 -  📓 Blog(About Quantum Computing): [Qftics](https://www.qftics.com/)
 
-[![Abhigyan GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhigyan-Mishra)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhigyan GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhigyan-Mishra&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
