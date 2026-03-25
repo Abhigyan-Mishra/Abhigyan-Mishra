@@ -56,7 +56,6 @@ I'm a quantum computing researcher and engineer working at the intersection of q
 
 ### 📚 Learn More
 
-- **Blog (Quantum Computing & Deep Tech):** [Qftics](https://www.qftics.com/)
 - **Twitter:** [@quantum_mishra](https://twitter.com/quantum_mishra)
 - **LinkedIn:** [Abhigyan Mishra](https://www.linkedin.com/in/abhigyan-mishra-b2435b18a/)
 - **Company:** [Rune Technology](https://runetech.eu/)
