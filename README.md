@@ -9,9 +9,8 @@ I'm a quantum computing researcher and engineer working at the intersection of q
 
 - **PhD in Quantum Computing** at IIT Bombay — exploring tensor network architectures and quantum-enhanced machine learning
 - **Master's in Finance** (MScFE) from WorldQuant University — quantitative finance, derivative pricing, stochastic modeling
-- **Quantum Lead** at Hero MotoCorp — applying tensor networks and physics-informed AI to battery optimization and thermal modeling
 - **Co-Founder & Quantum Director** at Rune Technology (Portugal) — building quantum-enhanced AI systems for systematic trading
-- **Senior Engineer** — designing scalable systems at the intersection of quantum computing and production infrastructure
+- **Quantum Lead** at Hero MotoCorp — applying tensor networks and physics-informed AI to battery optimization and thermal modeling
 
 ### 🔬 Technical Focus
 
