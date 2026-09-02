@@ -91,11 +91,4 @@ Quantum computing engineer working on tensor network methods, JEPA/SIGReg-based 
 
 ---
 
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Abhigyan-Mishra&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Abhigyan's GitHub stats" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhigyan-Mishra&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
-
 > **Note:** Much of my recent work involves proprietary systems and confidential research. Happy to discuss methodology and approach within appropriate boundaries.
